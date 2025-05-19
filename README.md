@@ -1,4 +1,4 @@
-# Iosevkafixed WebFont 33.2.2
+# Iosevkafixed WebFont 33.2.3
 
 ## How to use
 
